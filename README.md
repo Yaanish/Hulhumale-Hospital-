@@ -54,7 +54,7 @@ Displays the hospital's Vision, Mission, and five core Values (Innovation, Unity
 ### 8. **Contact Us Page (contact.html)**
 Features three contact information cards in `.contact-grid` layout, contact form, and multiple location listings.
 
-##Technologies & Tools Used
+## Technologies & Tools Used
 
 ### Development Tools
 - **Visual Studio Code**: Primary code editor for HTML and CSS development
@@ -150,6 +150,7 @@ Last Updated: January 2026
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
 
 
 
