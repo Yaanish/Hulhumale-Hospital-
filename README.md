@@ -6,9 +6,9 @@ A responsive and informative hospital website developed for Hulhumalé Hospital 
 
 This project demonstrates core web development fundamentals including semantic HTML5, modern CSS3 styling with custom properties, responsive design, form handling, and structured data presentation. The website serves as a digital gateway for patients and visitors to access essential information about Hulhumalé Hospital's healthcare services.
 
-**Project Timeline**: December 21, 2024 - January 27, 2025 (5+ weeks)
-- Development started: December 21, 2024
-- Final review completed: January 27, 2025
+**Project Timeline**: December 21, 2025 - January 27, 2026 
+- Development started: December 21, 2025
+- Final review completed: January 27, 2026
 - Total development time: Approximately 5 weeks
 
 ##  Features Implemented
@@ -158,3 +158,4 @@ Last Updated: January 2025
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
