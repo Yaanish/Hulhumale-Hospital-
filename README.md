@@ -140,6 +140,5 @@ Development tools:
 ======================================================================
 
 License & Usage
-
 This project was created for educational purposes as part of a Web Development class assignment. Website and Code is available for reference on GitHub.
 This is a student project created for academic purposes. All hospital information is based on publicly available data about Hulhumalé Hospital. This project is not officially affiliated with Hulhumalé Hospital.
