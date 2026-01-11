@@ -2,7 +2,7 @@
 
 A responsive and informative hospital website developed for Hulhumalé Hospital (HMH) as part of a Web Development class project. This website provides comprehensive information about the hospital's services, vision, mission, and contact details to serve the community of Hulhumalé, Maldives.
 
-##Project Overview
+## Project Overview
 
 This project demonstrates core web development fundamentals including semantic HTML5, modern CSS3 styling with custom properties, responsive design, form handling, and structured data presentation. The website serves as a digital gateway for patients and visitors to access essential information about Hulhumalé Hospital's healthcare services.
 
@@ -150,6 +150,7 @@ Last Updated: January 2026
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
 
 
 
