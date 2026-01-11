@@ -1,8 +1,8 @@
-# Hulhumalé Hospital Website
+#Hulhumalé Hospital Website
 
 A responsive and informative hospital website developed for Hulhumalé Hospital (HMH) as part of a Web Development class project. This website provides comprehensive information about the hospital's services, vision, mission, and contact details to serve the community of Hulhumalé, Maldives.
 
-##  Project Overview
+##Project Overview
 
 This project demonstrates core web development fundamentals including semantic HTML5, modern CSS3 styling with custom properties, responsive design, form handling, and structured data presentation. The website serves as a digital gateway for patients and visitors to access essential information about Hulhumalé Hospital's healthcare services.
 
@@ -11,12 +11,12 @@ This project demonstrates core web development fundamentals including semantic H
 - Final review completed: January 27, 2026
 - Total development time: Approximately 5 weeks
 
-##  Features Implemented
+##Features Implemented
 
-### 1. **Horizontal Navigation Bar**
+###1. **Horizontal Navigation Bar**
 Located in the `<header>` section of all pages (index.html, about.html, vision.html, contact.html). Includes hospital logo and navigation links to all four pages.
 
-### 2. **Images and Visual Content**
+###2. **Images and Visual Content**
 - **Header Logo**: `Assets/Logo/logo.png` - appears on all pages
 - **Footer Logo**: `Assets/Logo/logo_footer.png` - appears on all pages
 - **Banner Images**: Custom banner sections (`.banner-1`, `.banner-2`, `.banner-3`, `.banner-4`) on each page for visual impact
@@ -54,7 +54,7 @@ Displays the hospital's Vision, Mission, and five core Values (Innovation, Unity
 ### 8. **Contact Us Page (contact.html)**
 Features three contact information cards in `.contact-grid` layout, contact form, and multiple location listings.
 
-##  Technologies & Tools Used
+##Technologies & Tools Used
 
 ### Development Tools
 - **Visual Studio Code**: Primary code editor for HTML and CSS development
@@ -73,25 +73,18 @@ Features three contact information cards in `.contact-grid` layout, contact form
 
 
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - A modern web browser (Chrome, Firefox, Safari, Edge)
-- Text editor (VS Code, Sublime Text, Atom, or similar)
-- Basic understanding of HTML/CSS (for modifications)
 
 ### Installation & Setup
 
 1. **Open the website**:
    - Simply open `index.html` in your preferred web browser
    - Or use a local development server (like Live Server in VS Code)
-
-### File Dependencies
-- Ensure the `css` folder and `Assets/Logo` folder are in the same directory as the HTML files
-- Google Fonts will load automatically when connected to the internet
-
-##  Usage
-
+   - 
+## Usage
 1. Open `index.html` in any modern web browser to view the home page
 2. Use the navigation bar to explore different sections:
    - **Home**: View services, hospital information table, and insurance coverage
@@ -100,7 +93,6 @@ Features three contact information cards in `.contact-grid` layout, contact form
    - **Contact**: Access contact information and submit inquiries via the form
 
 ##  Responsive Design
-
 The website is designed with responsive principles to ensure optimal viewing across:
 - **Desktop computers** (1024px and above)
 - **Tablets** (768px - 1023px)
@@ -108,7 +100,7 @@ The website is designed with responsive principles to ensure optimal viewing acr
 
 All layouts adapt gracefully to different screen sizes using CSS media queries.
 
-##  Learning Objectives Achieved
+## Learning Objectives Achieved
 
 This project successfully demonstrates:
 - ✅ Semantic HTML5 structure and best practices
@@ -126,7 +118,7 @@ This project successfully demonstrates:
 - ✅ Logo design and visual branding using Adobe Illustrator
 - ✅ Image editing and optimization using Photoscape X and Photoshop
 
-## 👨‍💻 Developer Information
+##Developer Information
 
 - **Developer**: [Yaanish]
 - **Project Type**: Practical Web Development
@@ -135,18 +127,18 @@ This project successfully demonstrates:
 - **Semester**: [1/2025]
 - **Development Period**: December 21, 2025 - January 27, 2026
 
-## 📄 License
+##License
 
 This project was created for educational purposes as part of a Web Development class assignment.
 
 **Note**: This is a student project created for academic purposes. All hospital information is based on publicly available data about Hulhumalé Hospital. This project is not officially affiliated with Hulhumalé Hospital.
 
-## 🙏 Acknowledgments
+##Acknowledgments
 
 - **Hulhumalé Hospital** - For serving as the inspiration and subject matter
 - **Web Development Instructor** - For Detailed guidance and project requirements
 
-## 📧 Contact
+##Contact
 
 For questions about this project:
 - **GitHub**: [Yaanish](https://github.com/Yaanish)
@@ -154,8 +146,9 @@ For questions about this project:
 
 ---
 
-Last Updated: January 2025  
+Last Updated: January 2026  
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
 
