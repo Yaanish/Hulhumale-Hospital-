@@ -1,4 +1,4 @@
-#Hulhumalé Hospital Website
+# Hulhumalé Hospital Website
 
 A responsive and informative hospital website developed for Hulhumalé Hospital (HMH) as part of a Web Development class project. This website provides comprehensive information about the hospital's services, vision, mission, and contact details to serve the community of Hulhumalé, Maldives.
 
@@ -11,12 +11,12 @@ This project demonstrates core web development fundamentals including semantic H
 - Final review completed: January 27, 2026
 - Total development time: Approximately 5 weeks
 
-##Features Implemented
+## Features Implemented
 
-###1. **Horizontal Navigation Bar**
+### 1. **Horizontal Navigation Bar**
 Located in the `<header>` section of all pages (index.html, about.html, vision.html, contact.html). Includes hospital logo and navigation links to all four pages.
 
-###2. **Images and Visual Content**
+### 2. **Images and Visual Content**
 - **Header Logo**: `Assets/Logo/logo.png` - appears on all pages
 - **Footer Logo**: `Assets/Logo/logo_footer.png` - appears on all pages
 - **Banner Images**: Custom banner sections (`.banner-1`, `.banner-2`, `.banner-3`, `.banner-4`) on each page for visual impact
@@ -118,7 +118,7 @@ This project successfully demonstrates:
 - ✅ Logo design and visual branding using Adobe Illustrator
 - ✅ Image editing and optimization using Photoscape X and Photoshop
 
-##Developer Information
+## Developer Information
 
 - **Developer**: [Yaanish]
 - **Project Type**: Practical Web Development
@@ -127,18 +127,18 @@ This project successfully demonstrates:
 - **Semester**: [1/2025]
 - **Development Period**: December 21, 2025 - January 27, 2026
 
-##License
+## License
 
 This project was created for educational purposes as part of a Web Development class assignment.
 
 **Note**: This is a student project created for academic purposes. All hospital information is based on publicly available data about Hulhumalé Hospital. This project is not officially affiliated with Hulhumalé Hospital.
 
-##Acknowledgments
+## Acknowledgments
 
 - **Hulhumalé Hospital** - For serving as the inspiration and subject matter
 - **Web Development Instructor** - For Detailed guidance and project requirements
 
-##Contact
+## Contact
 
 For questions about this project:
 - **GitHub**: [Yaanish](https://github.com/Yaanish)
@@ -150,5 +150,6 @@ Last Updated: January 2026
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
 
 
