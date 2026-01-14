@@ -118,14 +118,6 @@ This project successfully demonstrates:
 - ✅ Logo design and visual branding using Adobe Illustrator
 - ✅ Image editing and optimization using Photoscape X and Photoshop
 
-## Developer Information
-
-- **Developer**: [Yaanish]
-- **Project Type**: Practical Web Development
-- **Institution**: [Mianz College]
-- **Course**: Advanced Certificate in Information Technology
-- **Semester**: [1/2025]
-- **Development Period**: December 21, 2025 - January 27, 2026
 
 ## License
 
@@ -150,6 +142,7 @@ Last Updated: January 2026
 Project Status: ✅ Completed
 
 © 2026 - Educational Project
+
 
 
 
